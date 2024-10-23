@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-credit-card-input": "^1.1.5",
+    "styled-components": "^6.1.13"
+  }
+}
